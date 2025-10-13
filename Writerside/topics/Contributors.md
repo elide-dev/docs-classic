@@ -8,6 +8,7 @@ We thank all the contributors who have helped in the development of this project
 - [Jordan Claspell](https://github.com/claspell)
 - [Konstantin](https://github.com/titi7454)
 - [LaTanya Donaldson](https://github.com/ldonald067)
+- [Lauri Heino](https://github.com/melodicore)
 - [Sam Gammon](https://github.com/sgammon)
 - [Sayyid Yofa](https://github.com/sayyidyofa)
 - [Sebastian Schuberth](https://github.com/sschuberth)
